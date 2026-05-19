@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "294574323556",
+    "firebase_url": "https://tugas-individu-hermansawira-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-individu-hermansawira",
+    "storage_bucket": "tugas-individu-hermansawira.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294574323556:android:48d422c8fc60ab6de72c71",
+        "android_client_info": {
+          "package_name": "com.example.tugas_mandiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiO5w2w8_8I9eCkDLZXST-7YO5OVSmpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
